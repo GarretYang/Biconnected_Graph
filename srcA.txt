@@ -1,0 +1,67 @@
+Biconnected Components 1:
+{4, 1}
+{3, 4}
+{2, 3}
+{1, 2}
+Biconnected Components 2:
+{7, 5}
+{6, 7}
+{5, 6}
+Biconnected Components 3:
+{5, 9}
+Biconnected Components 4:
+{5, 0}
+{8, 1}
+{5, 8}
+{1, 5}
+{0, 1}
+The number of nodes is: 10
+The number of edges is: 13
+The number of biconnected components is: 4
+The number of articulation points is: 2
+The articulation points are: (1, 5)
+The algorithm's run time is 2906074 ns
+
+Biconnected Components 1:
+{9, 4}
+{6, 9}
+{4, 6}
+Biconnected Components 2:
+{14, 8}
+{14, 7}
+{14, 3}
+{11, 14}
+{13, 8}
+{13, 7}
+{13, 3}
+{11, 13}
+{11, 7}
+{11, 3}
+{8, 11}
+{8, 3}
+{7, 8}
+{3, 7}
+Biconnected Components 3:
+{10, 3}
+Biconnected Components 4:
+{2, 10}
+Biconnected Components 5:
+{15, 0}
+{12, 15}
+{12, 1}
+{12, 0}
+{5, 12}
+{5, 1}
+{2, 5}
+{4, 1}
+{2, 4}
+{2, 0}
+{1, 2}
+{0, 1}
+The number of nodes is: 16
+The number of edges is: 31
+The number of biconnected components is: 5
+The number of articulation points is: 4
+The articulation points are: (2, 3, 4, 10)
+The algorithm's run time is 3253973 ns
+
